@@ -1,11 +1,11 @@
 
 #this is the solution of the horizontal scrollbar react app assignment given by akshat gupta
 
-This project contains two main files in src folger
+This project contains two main files in src folder
 App.js and App.css
 
-Everything is working fine, json data you given is fetched and rendered properly woth some good css and horizontal scrollbar working smooth and fine 
-all the level name ares inline in heading and then the names of people as given in assignment.
+Everything is working fine, json data you given is fetched and renderred properly woth some good css and horizontal scrollbar working smooth and fine 
+all the level names are inline in heading and then the names of people as given in assignment.
 
 
 
