@@ -1,0 +1,35 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+}
+
+.main {
+  width: 80vw;
+  height: 80vh;
+  margin: auto;
+  margin-left: 100px;
+  margin-right: 50px;
+  display: flex;
+  justify-content: center;
+  align-items:  center ;
+  border-radius: 15px 150px;
+}
+.bg1 {
+  background-color: palegreen;
+  font-family:fantasy;
+}
+
+.bg2 {
+  background-color: rgba(237, 156, 126, 0.966) ;
+  font-family:fantasy;
+}
+.bg3 {
+  background-color: rgb(218, 58, 52);
+  font-family:fantasy;
+}
+.bg4 {
+  background-color: blue;
+}
+.bg5 {
+  background-color: red;
+}
